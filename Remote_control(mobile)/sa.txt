@@ -1,0 +1,8 @@
+// connect to which IoTtalk server
+window.endpoint = "https://demo.iottalk.tw";
+
+// name to show on Project window
+window.d_name = "TW38_"+ Math.floor(333*Math.random()) +'.Remote_control';
+
+
+
